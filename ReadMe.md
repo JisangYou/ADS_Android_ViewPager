@@ -2,7 +2,7 @@
 
 ## 수업 내용
 
-- ViewPager 학습
+- ViewPager 기본적인 문법 및 사용법 학습
 
 ## Code Review
 
@@ -41,6 +41,8 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 </LinearLayout>
 ```
+
+### MainActivity
 
 ```Java
 public class MainActivity extends AppCompatActivity {
