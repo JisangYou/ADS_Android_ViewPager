@@ -118,7 +118,7 @@ class CustomAdapter extends PagerAdapter {
 
 ## 보충설명
 
-### ViewPager이란?
+### ViewPager
 - Support Library에 포함
 - AdapterView의 일종
 - ViewPager 표시하는 View는 PagerAdapter를 통해 공급 받습니다. PagerAdapter를 통해 화면에 표시 될 View의 라이프 사이클을 관리 할 수 있음.
@@ -157,5 +157,5 @@ finishUpdate() : 페이지 변경이 완료되었을때 호출 됩니다.
 
 ## Output
 
--  참고[http://arabiannight.tistory.com](http://arabiannight.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CAndorid-Viewpager-%EC%82%AC%EC%9A%A9-%ED%95%98%EA%B8%B0)
+-  참고 [http://arabiannight.tistory.com](http://arabiannight.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CAndorid-Viewpager-%EC%82%AC%EC%9A%A9-%ED%95%98%EA%B8%B0)
 - ![ViewPager](http://cfile1.uf.tistory.com/image/130635474F5758B8118FF7)
